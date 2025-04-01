@@ -3,6 +3,13 @@ name = "nmap-helper"
 version = "0.1.1"
 edition = "2024"
 authors = ["Alec Gleason <alec@gleasons.pub>"]
+license-file = "LICENSE"
+keywords = ["security", "nmap", "parsing"]
+description = "Some utilities for working with Nmap scan results (https://nmap.org)"
+homepage = "https://github.com/net-shaper/nmap-helper"
+repository = "https://github.com/net-shaper/nmap-helper"
+readme = "README.md"
+categories = ["command-line-utilities", "security", "parser-implementations"]
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
