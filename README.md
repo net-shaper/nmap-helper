@@ -1,4 +1,4 @@
-# nmap-rs Helper Tool
+# Nmap-Helper
 
 A Rust-based command-line utility for processing and working with Nmap output files. This tool helps you convert Nmap output formats and generate targeted Nmap commands from previous scan results.
 
